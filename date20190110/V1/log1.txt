@@ -1,0 +1,18 @@
+另一个程序正在使用此文件，进程无法访问。
+另一个程序正在使用此文件，进程无法访问。
+Traceback (most recent call last):
+  File "D:\Python\date20190110\V1\testcase\test_login.py", line 6, in <module>
+    from ..common.browser_manager import BrowserManager
+ValueError: attempted relative import beyond top-level package
+Traceback (most recent call last):
+  File "D:\Python\date20190110\V1\testcase\test_login.py", line 12, in <module>
+    Login(bm).go_login("admin","admin","0000")
+  File "D:\Python\date20190110\V1\common\login.py", line 25, in go_login
+    self.input_username(name)
+  File "D:\Python\date20190110\V1\common\login.py", line 13, in input_username
+    self.bm.input_text("username",name)
+TypeError: input_text() missing 1 required positional argument: 'value'
+Traceback (most recent call last):
+  File "D:\Python\date20190110\V1\testcase\test_login.py", line 14, in <module>
+    logxx=bm.deriver.find.element.by.link_text("娉ㄩ攢").text
+AttributeError: 'BrowserManager' object has no attribute 'deriver'

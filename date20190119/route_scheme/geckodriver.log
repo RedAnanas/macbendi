@@ -1,0 +1,608 @@
+1547895530432	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.kB9p5IBwgU6s"
+1547895532429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547895532430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547895536611	Marionette	INFO	Listening on port 11661
+1547895537162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+WARN: compileToBinary(235): 
+C:\fakepath(110,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(111,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(113,32-107): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[Parent 9508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9508, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1547895599011	Marionette	INFO	Stopped listening on port 11661
+1547896683670	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.TOOjrkjKdDzn"
+1547896684854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547896684855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547896689982	Marionette	INFO	Listening on port 12410
+1547896690196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+WARN: compileToBinary(235): 
+C:\fakepath(110,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(111,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(113,32-107): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[Parent 8920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1547896737673	Marionette	INFO	Stopped listening on port 12410
+1547896764256	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.jDHLFspqXYTv"
+1547896765350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547896765350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547896767644	Marionette	INFO	Listening on port 12601
+1547896768174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+WARN: compileToBinary(235): 
+C:\fakepath(110,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(111,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(113,32-107): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+[Parent 7184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3984, Chrome_ChildThread] W[Child 7000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7000, Chrome_ChildThread] [Parent 7184, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1547896813078	Marionette	INFO	Stopped listening on port 12601
+1547896883493	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.jkxSvcKRD8dH"
+1547896884131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547896884132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547896886127	Marionette	INFO	Listening on port 12820
+1547896886214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+WARN: compileToBinary(235): 
+C:\fakepath(110,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(111,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(113,32-107): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Child 6844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1048, Chrome_ChildT1547896938039	Marionette	INFO	Stopped listening on port 12820
+1547897860543	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.2m4ZKoF9RnVo"
+1547897862184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547897862184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547897865992	Marionette	INFO	Listening on port 13502
+1547897866065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+WARN: compileToBinary(235): 
+C:\fakepath(110,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(111,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(113,32-107): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+[Parent 4656, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4656, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8828, Chrome_ChildThread] WARNING: pi[Parent 4656, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1547897904411	Marionette	INFO	Stopped listening on port 13502
+1547898018455	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ZsK7E1EOlTkx"
+1547898019742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547898019742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547898021934	Marionette	INFO	Listening on port 13693
+1547898022288	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+WARN: compileToBinary(235): 
+C:\fakepath(110,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(111,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(113,32-107): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[Parent 7284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8744, Chrome_ChildThr1547898048626	Marionette	INFO	Stopped listening on port 13693
+1547898545678	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.1hoXvVlhKVqm"
+1547898546718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547898546719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547898551904	Marionette	INFO	Listening on port 14103
+1547898552188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+WARN: compileToBinary(235): 
+C:\fakepath(110,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(111,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(113,32-107): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[Child 9408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/co[Child 9092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9092, Chrome_ChildThread] WARNING: pipe error:[Parent 7104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7748, Chrome_ChildTh1547898589469	Marionette	INFO	Stopped listening on port 14103
+1547898839072	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ELMtN2f4MqP6"
+1547898840000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547898840000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547898841915	Marionette	INFO	Listening on port 14532
+1547898842297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+WARN: compileToBinary(235): 
+C:\fakepath(110,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(111,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(113,32-107): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+[Child 9964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3868, Chrome_ChildThread] WARNI[Child 8904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8904, Chrome_ChildThread] [Parent 8976, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1547898880806	Marionette	INFO	Stopped listening on port 14532
+1547898945408	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.xcwoSNcRb8yK"
+1547898946508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547898946509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547898948866	Marionette	INFO	Listening on port 14751
+1547898949238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+WARN: compileToBinary(235): 
+C:\fakepath(110,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(111,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(113,32-107): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+[Parent 9804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10004, Chrome_ChildThread] WARNING: pipe error: 109: f[Parent 9804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9804, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1547898968253	Marionette	INFO	Stopped listening on port 14751
+1547899010416	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.2soCrFSqs86g"
+1547899011557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547899011557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547899013658	Marionette	INFO	Listening on port 14950
+1547899013741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+WARN: compileToBinary(235): 
+C:\fakepath(110,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(111,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(113,32-107): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+[Parent 9480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1547899035552	Marionette	INFO	Stopped listening on port 14950
+1547899403175	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.P5WqqfV32TuI"
+1547899404186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547899404187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547899406269	Marionette	INFO	Listening on port 1338
+1547899406408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+WARN: compileToBinary(235): 
+C:\fakepath(110,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(111,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(113,32-107): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+[Parent 6044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6044, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1547899424530	Marionette	INFO	Stopped listening on port 1338
+1547899466617	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.2pI6ql8mUtK9"
+1547899467248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547899467249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547899469179	Marionette	INFO	Listening on port 1487
+1547899469358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+WARN: compileToBinary(235): 
+C:\fakepath(110,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(111,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(113,32-107): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+[Parent 8792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9156, Chrome_ChildThread] WARN[Child 8360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1547899530970	Marionette	INFO	Stopped listening on port 1487
+1547959464730	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.AIBPSaoFqmrX"
+1547959466444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547959466445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547959470493	Marionette	INFO	Listening on port 2716
+1547959470750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+WARN: compileToBinary(235): 
+C:\fakepath(110,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(111,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(113,32-107): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[Parent 5452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_ch[Parent 5452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3576, Chrome_ChildTh1547959571680	Marionette	INFO	Stopped listening on port 2716
+1547959615105	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.VQsT5KfcVnVN"
+1547959616165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547959616166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547959618001	Marionette	INFO	Listening on port 2916
+1547959618328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+WARN: compileToBinary(235): 
+C:\fakepath(110,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(111,32-86): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(113,32-107): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_96fb098.js line 3 > eval, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 7960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4664, Chr[Parent 7960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6796, Chr[Parent 7960, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1547959737729	Marionette	INFO	Stopped listening on port 2916

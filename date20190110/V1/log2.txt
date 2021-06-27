@@ -1,0 +1,12 @@
+case1 登录成功
+case2 成功
+case1 登录成功
+case2 成功
+case1 登录成功
+case2 失败
+case1 登录成功
+case2 成功
+case1 登录成功
+case2 成功
+case1 登录成功
+case2 成功

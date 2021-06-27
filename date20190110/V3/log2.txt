@@ -1,0 +1,33 @@
+
+case 成功
+case 失败
+case 失败
+case 成功
+case 成功
+case 成功
+Traceback (most recent call last):
+  File "D:\Python\date20190110\V3\testcase\test_login.py", line 14, in <module>
+    bm = BrowserManager()
+  File "D:\Python\date20190110\V3\common\browser_manager.py", line 13, in __init__
+    self.driver.get("http://admin:8080/WoniuSales1.4/")
+  File "D:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "D:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//admin%3A8080/WoniuSales1.4/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20admin%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+
+Traceback (most recent call last):
+  File "D:\Python\date20190110\V3\testcase\test_login.py", line 14, in <module>
+    bm = BrowserManager()
+  File "D:\Python\date20190110\V3\common\browser_manager.py", line 13, in __init__
+    self.driver.get("http://admin:8080/WoniuSales1.4/")
+  File "D:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "D:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//admin%3A8080/WoniuSales1.4/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20admin%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+

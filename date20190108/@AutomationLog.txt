@@ -1,0 +1,4 @@
+WindowControl's BoundingRectangle is empty(0,0,0,0). searchPorperty: {'ClassName': 'Notepad', 'ControlType': 50032}
+WindowControl's BoundingRectangle is empty(0,0,0,0). searchPorperty: {'ClassName': 'Notepad', 'ControlType': 50032}
+WindowControl's BoundingRectangle is empty(0,0,0,0). searchPorperty: {'ClassName': 'Notepad', 'ControlType': 50032}
+WindowControl's BoundingRectangle is empty(0,0,0,0). searchPorperty: {'ClassName': 'Notepad', 'ControlType': 50032}

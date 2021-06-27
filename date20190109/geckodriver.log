@@ -1,0 +1,207 @@
+1547009693031	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.IXuOrA7dh3zW"
+1547009694169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547009694169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547009698115	Marionette	INFO	Listening on port 13918
+1547009698458	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9772, Chr[Parent 9860, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1547009710843	Marionette	INFO	Stopped listening on port 13918
+1547009720106	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.W1eghcGtwGrK"
+1547009720943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547009720943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547009722856	Marionette	INFO	Listening on port 14000
+1547009723315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547009729941	Marionette	INFO	Stopped listening on port 14000
+[Child 9104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b1547009908826	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.35ScoAPM44bu"
+1547009909685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547009909685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547009911663	Marionette	INFO	Listening on port 14311
+1547009912037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547009918600	Marionette	INFO	Stopped listening on port 14311
+JavaScript error: jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Child 9888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9888, Chrome_ChildThread] WA[Child 7268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7820, Chrome_Chi1547010090558	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ehYAENrEo7T9"
+1547010091374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547010091374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547010093369	Marionette	INFO	Listening on port 14369
+1547010093776	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7548, Chrome_ChildThread] WAR1547010098660	Marionette	INFO	Stopped listening on port 14369
+1547013130930	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.mui5CI5R5zJz"
+1547013131763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547013131763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547013134690	Marionette	INFO	Listening on port 14853
+1547013134741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547013142431	Marionette	INFO	Stopped listening on port 14853
+[Child 8328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_[Child 10220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8352, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 9188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9188, Chrome_ChildThread] WARNING: pipe erro1547013160328	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.bsovW7B2UDBU"
+1547013161202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547013161202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547013163036	Marionette	INFO	Listening on port 14895
+1547013163091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547013172944	Marionette	INFO	Stopped listening on port 14895
+[Child 10216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10216, Chrome_ChildThread] WARNING: pipe erro[Parent 5380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8428, Chrome_ChildThread] WARNING: [Parent 5380, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1547018733548	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ZEc5Nh6uFVu1"
+1547018734825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547018734826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547018738446	Marionette	INFO	Listening on port 2847
+1547018738532	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[Parent 9984, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1547018746343	Marionette	INFO	Stopped listening on port 2847
+1547020597531	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.PON9hNDDKkcm"
+1547020598458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547020598459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547020603149	Marionette	INFO	Listening on port 5755
+1547020603562	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Child 9188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8652, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 8652, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 8652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9104, Chrome_ChildThread] WARNING: pip[Parent 8652, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1547020607736	Marionette	INFO	Stopped listening on port 5755
+1547022063771	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.IEjoHSdnyl7l"
+1547022064696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547022064696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547022068081	Marionette	INFO	Listening on port 8039
+1547022068119	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8648, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 9552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/com[Parent 8648, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1547022076398	Marionette	INFO	Stopped listening on port 8039
+1547022171275	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.yroJRz7nCyqy"
+1547022172323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547022172323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547022175092	Marionette	INFO	Listening on port 8238
+1547022175156	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chro[Child 9256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9256, Chrome_ChildThread] WARNI[Parent 8700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3324, Chrome_ChildThread] W[Parent 8700, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1547022181600	Marionette	INFO	Stopped listening on port 8238
+1547022655846	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.wnEYeyeBBljL"
+1547022657867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547022657868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547022666031	Marionette	INFO	Listening on port 9100
+1547022666307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547022676948	Marionette	ERROR	[6442450949] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 458: TypeError: reply[0] is undefined
+JavaScript warning: https://pos.baidu.com/hcim?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110000&psi=cee6bc45ab4c2021c322731a4c58fedc&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1547022683596&ti=%E5%91%A8%E6%9D%B0%E4%BC%A6_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1265x704&pss=1265x27461&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1547022683&prot=2&rw=704&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%2591%25A8%25E6%259D%25B0%25E4%25BC%25A6%2F129156%3Ffr%3Daladdin&ltr=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DeeqiJfbrxNFgaktGBQZwM4nrOKrMxiJppOpbfDiWF36YFk_obWhHiUopO2GgPMngqA19-ImefWWys9W6tkTqyNYIi4K6zTI_csuFzLKNImjc_kmKyjl7OEaE2paP5LJ9%26wd%3D%26eqid%3Da927a89400031a97000000035c35b155&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1547022684&qn=7cbd78988d3bbd4b&tt=1547022683547.60.292.299, line 119: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/hcim?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110000&psi=cee6bc45ab4c2021c322731a4c58fedc&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1547022683596&ti=%E5%91%A8%E6%9D%B0%E4%BC%A6_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1265x704&pss=1265x27461&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1547022683&prot=2&rw=704&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%2591%25A8%25E6%259D%25B0%25E4%25BC%25A6%2F129156%3Ffr%3Daladdin&ltr=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DeeqiJfbrxNFgaktGBQZwM4nrOKrMxiJppOpbfDiWF36YFk_obWhHiUopO2GgPMngqA19-ImefWWys9W6tkTqyNYIi4K6zTI_csuFzLKNImjc_kmKyjl7OEaE2paP5LJ9%26wd%3D%26eqid%3Da927a89400031a97000000035c35b155&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1547022684&qn=7cbd78988d3bbd4b&tt=1547022683547.60.292.299, line 119: unreachable code after return statement
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 4912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9768, Chrome_ChildThread[Parent 4912, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1547022706320	Marionette	INFO	Stopped listening on port 9100
+1547022761071	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.JknQ5qPBtr5v"
+1547022762159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547022762159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547022766803	Marionette	INFO	Listening on port 9424
+1547022767172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%91%A8&json=1&p=3&sid=1463_21105_18560_28132_26350_28266_28139_22072&req=2&csor=1&cb=jQuery110205811333973171463_1547022768331&_=1547022768334, line 1: TypeError: jQuery110205811333973171463_1547022768331 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%91%A8%E6%9D%B0&json=1&p=3&sid=1463_21105_18560_28132_26350_28266_28139_22072&req=2&csor=2&pwd=%E5%91%A8&cb=jQuery110205811333973171463_1547022768331&_=1547022768335, line 1: TypeError: jQuery110205811333973171463_1547022768331 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6&json=1&p=3&sid=1463_21105_18560_28132_26350_28266_28139_22072&req=2&csor=3&pwd=%E5%91%A8%E6%9D%B0&cb=jQuery110205811333973171463_1547022768331&_=1547022768336, line 1: TypeError: jQuery110205811333973171463_1547022768331 is not a function
+JavaScript warning: https://pos.baidu.com/rcgm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110000&psi=b97fafb7050afed882130114ffaf09e6&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1547022780407&ti=%E5%91%A8%E6%9D%B0%E4%BC%A6_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1265x704&pss=1265x27461&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1547022780&prot=2&rw=704&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%2591%25A8%25E6%259D%25B0%25E4%25BC%25A6%2F129156%3Ffr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DhLgbBkmWM-A1V18RBGBb0rt5AUnQekDVGawng9IELRX2SWxoQhLmrtzFcTOsZlLs4eZvY184QPZLRARjWmNvBQVYXuCbRhP6nYadrFtvjj3uUe6Ec8r0fIL2aHDQITYm%26wd%3D%26eqid%3Db81799d600028cda000000035c35b1b7&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1547022780&qn=3294a2b989e800ca&tt=1547022780370.43.263.267, line 119: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/rcgm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110000&psi=b97fafb7050afed882130114ffaf09e6&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1547022780407&ti=%E5%91%A8%E6%9D%B0%E4%BC%A6_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1265x704&pss=1265x27461&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1547022780&prot=2&rw=704&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%2591%25A8%25E6%259D%25B0%25E4%25BC%25A6%2F129156%3Ffr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DhLgbBkmWM-A1V18RBGBb0rt5AUnQekDVGawng9IELRX2SWxoQhLmrtzFcTOsZlLs4eZvY184QPZLRARjWmNvBQVYXuCbRhP6nYadrFtvjj3uUe6Ec8r0fIL2aHDQITYm%26wd%3D%26eqid%3Db81799d600028cda000000035c35b1b7&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1547022780&qn=3294a2b989e800ca&tt=1547022780370.43.263.267, line 119: unreachable code after return statement
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Child 7060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6168, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 6168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6168, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 6168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bu1547022782027	Marionette	INFO	Stopped listening on port 9424
+1547022802333	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.h5EOTG9aQUts"
+1547022803166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547022803167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547022805500	Marionette	INFO	Listening on port 9620
+1547022805800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%91%A8&json=1&p=3&sid=1430_21117_28131_26350_28267_27244&req=2&csor=1&cb=jQuery110206663605459202367_1547022806858&_=1547022806861, line 1: TypeError: jQuery110206663605459202367_1547022806858 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%91%A8%E6%9D%B0&json=1&p=3&sid=1430_21117_28131_26350_28267_27244&req=2&csor=2&pwd=%E5%91%A8&cb=jQuery110206663605459202367_1547022806858&_=1547022806862, line 1: TypeError: jQuery110206663605459202367_1547022806858 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6&json=1&p=3&sid=1430_21117_28131_26350_28267_27244&req=2&csor=3&pwd=%E5%91%A8%E6%9D%B0&cb=jQuery110206663605459202367_1547022806858&_=1547022806863, line 1: TypeError: jQuery110206663605459202367_1547022806858 is not a function
+JavaScript warning: https://pos.baidu.com/rcmm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110000&psi=25a4246a582e62667191ba826397d9dd&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1547022817554&ti=%E5%91%A8%E6%9D%B0%E4%BC%A6_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1265x704&pss=1265x27461&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1547022817&prot=2&rw=704&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%2591%25A8%25E6%259D%25B0%25E4%25BC%25A6%2F129156%3Ffr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DughYNqBWw48tus_1MLjwIbvba8YcCfNLIUo9TDhS0KIHrHrWGmS6B8DgmRFXijjGlHn-nCfGRmSPg2SsLMryoWB5a_DwsBwPi1yHHtoJ8d0VG74o98ev8PqUAOiWvq-1%26wd%3D%26eqid%3Dc08ca558000350a3000000035c35b1de&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1547022818&qn=8c613d9bd6bcb650&tt=1547022817507.53.298.306, line 119: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/rcmm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110000&psi=25a4246a582e62667191ba826397d9dd&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1547022817554&ti=%E5%91%A8%E6%9D%B0%E4%BC%A6_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1265x704&pss=1265x27461&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1547022817&prot=2&rw=704&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%2591%25A8%25E6%259D%25B0%25E4%25BC%25A6%2F129156%3Ffr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DughYNqBWw48tus_1MLjwIbvba8YcCfNLIUo9TDhS0KIHrHrWGmS6B8DgmRFXijjGlHn-nCfGRmSPg2SsLMryoWB5a_DwsBwPi1yHHtoJ8d0VG74o98ev8PqUAOiWvq-1%26wd%3D%26eqid%3Dc08ca558000350a3000000035c35b1de&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1547022818&qn=8c613d9bd6bcb650&tt=1547022817507.53.298.306, line 119: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/ecmm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110011&psi=f40b63586858370af3aed79c9233e120&di=u1997633&dri=0&dis=0&dai=2&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1547022830037&ti=%E8%8C%83%E7%89%B9%E8%A5%BF%EF%BC%88%E5%91%A8%E6%9D%B0%E4%BC%A62001%E5%B9%B4%E5%8F%91%E8%A1%8C%E4%B8%93%E8%BE%91%EF%BC%89_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1265x704&pss=1265x4252&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1547022830&prot=2&rw=704&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E8%258C%2583%25E7%2589%25B9%25E8%25A5%25BF%2F22666&ltr=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%2591%25A8%25E6%259D%25B0%25E4%25BC%25A6%2F129156%3Ffr%3Daladdin&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1547022830&qn=8c613d9bd6bcb650&tt=1547022829999.61.62.64, line 119: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/ecmm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110011&psi=f40b63586858370af3aed79c9233e120&di=u1997633&dri=0&dis=0&dai=2&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1547022830037&ti=%E8%8C%83%E7%89%B9%E8%A5%BF%EF%BC%88%E5%91%A8%E6%9D%B0%E4%BC%A62001%E5%B9%B4%E5%8F%91%E8%A1%8C%E4%B8%93%E8%BE%91%EF%BC%89_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1265x704&pss=1265x4252&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1547022830&prot=2&rw=704&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E8%258C%2583%25E7%2589%25B9%25E8%25A5%25BF%2F22666&ltr=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%2591%25A8%25E6%259D%25B0%25E4%25BC%25A6%2F129156%3Ffr%3Daladdin&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1547022830&qn=8c613d9bd6bcb650&tt=1547022829999.61.62.64, line 119: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 10648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 10564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[1547026675062	Marionette	INFO	Stopped listening on port 9620
+1548498599308	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.FmjUW7QfrH6D"
+1548498601181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548498601182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548498606438	Marionette	INFO	Listening on port 2659
+1548498606547	Marionette	WARN	TLS certificate errors will be ignored for this session
