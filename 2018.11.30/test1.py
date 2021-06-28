@@ -70,7 +70,7 @@ for i in range (-100,10001):
        print("这个数是：%d"%i)
 '''
 #7.输入三个整数x,y,z，请把这三个数由小到大输出。
-
+'''
 x=int(input("请输入第x个整数"))
 y=int(input("请输入第y个整数"))
 z=int(input("请输入第z个整数"))
@@ -89,7 +89,7 @@ elif z>x and y>x and z>y:
     print("%d>%d>%d"%(z,y,x))
 else:
     print("错误")
-
+'''
 
 #8.求1000以内的水仙花数。
 #提示：如果一个 3 位数等于其各位数字的立方和，则称这个数为水仙花数。
@@ -141,15 +141,15 @@ for i in range(1,line,1):
     print("\t")
 """
 #12.打印等腰三角形：
-"""
+'''
 line=6
 for i in range(1,line,1):
     for k in range(0,line-i,1):
         print(" ",end="")
     for j in range(0,2*i-1,1):
         print("*",end="")
-            print("\t")
-"""   
+    print("\t")
+'''
 
 
     
