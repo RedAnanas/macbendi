@@ -31,14 +31,14 @@ else:
     print(a)
 """
 #4.分别输入年、月、日，判断此日期是当年的第几天。
-'''
+
 ping=[0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334]
 run=[0, 31, 60, 91, 121, 152, 182, 213, 244, 274, 305, 335]
 while True:
     y=int(input("请输入一个年份（1980-2099）:"))
     m=int(input("请输入一个月份（1-12）:"))
     d=int(input("请输入一个日:"))
-    if y>=1980 and y<=2099:
+    if y>=1980 and y<=2099 and m>=1 and m<=12 and d>=1 and d<=31:
         if (y%4==0 and y%100!=0) or y%400==0:
             sumday=run[m-1]+d
             print("是闰年,是当年的第%d天"%sumday)
@@ -51,7 +51,7 @@ while True:
     else:
         print("错误年份，请重新输入")
         continue
-'''
+
 #5.打印99乘法表。
 '''
 for i in range(1,10,1):
